@@ -1,5 +1,5 @@
 # 💻 Operating Systems
-📘 Lecture Slides for Operating Systems — Fall 2025 Edition  
+Lecture Slides for Operating Systems — Fall 2025 Edition  
 This repository contains **lecture slides and materials** for weekly topics related to **Operating Systems**.
 
 ---
