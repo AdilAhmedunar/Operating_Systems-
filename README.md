@@ -25,5 +25,5 @@ This repository contains **lecture slides and materials** for weekly topics rela
 
 ## 👨‍🏫 Instructor
 **Lecturer:** Engr. Adil Ahmed Unar  
-📧 [Adilahmedunar@gmail.com](mailto:Adilahmedunar@gmail.com)
+📧 [adil.ahmed@ssuet.edu.pk](mailto:adil.ahmed@ssuet.edu.pk)
 
