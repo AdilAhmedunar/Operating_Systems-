@@ -1,4 +1,4 @@
-# 💻 Operating Systems
+<img width="977" height="140" alt="image" src="https://github.com/user-attachments/assets/64ce19b4-5839-407b-9e1e-0e87d31b9b9c" /># 💻 Operating Systems
 Lecture Slides for Operating Systems — Fall 2025 Edition  
 This repository contains **lecture slides and materials** for weekly topics related to **Operating Systems**.
 
@@ -16,7 +16,9 @@ This repository contains **lecture slides and materials** for weekly topics rela
 | 6 | **CPU Scheduling and Process Scheduling Algorithms** — explains CPU scheduling fundamentals, the distinction between preemptive and non-preemptive scheduling, and explores key scheduling algorithms along with performance parameters like turnaround time, waiting time, and CPU utilization. | [Lecture 6 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_02_Lectures/Lecture%20%23%2006%20CPU%20Scheduling%20and%20Process%20Scheduling%20Algorithms%20in%20Operating%20Systems.pptx)
 | 7 | **CPU Scheduling Algorithms – Non-Preemptive (FCFS Scheduling)** — introduces non-preemptive CPU scheduling focusing on the First-Come, First-Serve (FCFS) algorithm, its working mechanism, implementation, and performance analysis. | [Lecture 7 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_03_Lectures/Lecture%20%23%2007%20CPU%20Scheduling%20Algorithms%20%E2%80%93%20Non-Preemptive%20(First-Come%2C%20First-Serve%20Scheduling).pptx)|
 | 8 | **CPU Scheduling Algorithms – Non-Preemptive (Shortest Job First, SJF)** — explains the Shortest Job First (SJF) scheduling algorithm, its working principles, advantages, and limitations compared to FCFS. | [Lecture 8 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_03_Lectures/Lecture%20%23%2008%20CPU%20Scheduling%20Algorithms%20%E2%80%93%20Non-Preemptive%20(Shortest%20Job%20First%20Scheduling).pptx) |
-| 9 | **CPU Scheduling Algorithms – Preemptive Scheduling** — covers preemptive scheduling approaches including Priority and Round Robin, highlighting context switching, fairness, and CPU utilization improvements. | [Lecture 9 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_03_Lectures/Lecture%20%23%2009%20CPU%20Scheduling%20Algorithms%20%E2%80%93%20Preemptive%20(Shortest%20Job%20First%20Scheduling).pptx) |
+| 9 | **CPU Scheduling Algorithms – Preemptive Scheduling (Shortest Remaining Time First)** — covers preemptive scheduling approaches including Priority and Round Robin, highlighting context switching, fairness, and CPU utilization improvements. | [Lecture 9 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_03_Lectures/Lecture%20%23%2009%20CPU%20Scheduling%20Algorithms%20%E2%80%93%20Preemptive%20(Shortest%20Job%20First%20Scheduling).pptx) |
+| 10–11 | **CPU Scheduling Algorithms – Preemptive Scheduling (Round Robin)** — introduces Round Robin scheduling mechanism focusing on time quantum, context switching overhead, fairness, and CPU utilization across processes. | [Lecture 10–11 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_04_Lectures/REPLACE_FILE_NAME_HERE.pptx) |
+
 
 
 
