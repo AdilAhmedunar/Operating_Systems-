@@ -1,4 +1,4 @@
-<img width="977" height="140" alt="image" src="https://github.com/user-attachments/assets/64ce19b4-5839-407b-9e1e-0e87d31b9b9c" /># 💻 Operating Systems
+# 💻 Operating Systems
 Lecture Slides for Operating Systems — Fall 2025 Edition  
 This repository contains **lecture slides and materials** for weekly topics related to **Operating Systems**.
 
