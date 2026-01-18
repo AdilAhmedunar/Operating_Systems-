@@ -22,6 +22,9 @@ This repository contains **lecture slides and materials** for weekly topics rela
 | 14 | **CPU Scheduling Algorithms – Preemptive vs Non-Preemptive Practice (Priority Scheduling)** — practical examples and exercises to implement and analyze priority-based scheduling. | [Lecture 14 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_05_Lectures/Lecture%20%23%2014%20%20%20CPU%20Scheduling%20Algorithms%20%E2%80%93%20Preemptive%20-%20Non-Preemptive%20Practice%20(Priority%20Scheduling).pptx) |
 | 15 | **Multilevel Queue (MLQ) & Multilevel Feedback Queue (MLFQ) Scheduling — Theory + Class Activity** | [Lecture 15 (Download) 📝 Midterm Examination](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_06_Lectures/Lecture%20%23%2015%20Multilevel%20Queue%20%26%20Multilevel%20Feedback%20Queue%20Scheduling%20%E2%80%93%20Theory%20%2B%20Class%20Activity.pptx) |
 | 16–17 | **Process Synchronization & Concurrency** — covers *Process Synchronization, Concurrent Processes, Race Condition, Producer–Consumer Problem, Critical Section Problem, and Peterson’s Solution* | [Lecture 16–17 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_07_Lectures/Lecture%20%23%2016%20%26%2017.pptx) |
+| 18 | **Semaphore and Critical Section** — covers *Critical Section Problem, Semaphore, Binary Semaphore, Counting Semaphore, and Limitations of Semaphore* | [Lecture 18 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_08_Lectures/Lecture%20%23%2018.pptx) |
+| 19 | **Classical Synchronization Problems** — covers *The Bounded Buffer Problem, The Reader and Writer Problem* | [Lecture 19 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_08_Lectures/Lecture%20%23%2019..pptx) |
+
 
 
 
