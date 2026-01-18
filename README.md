@@ -24,6 +24,11 @@ This repository contains **lecture slides and materials** for weekly topics rela
 | 16–17 | **Process Synchronization & Concurrency** — covers *Process Synchronization, Concurrent Processes, Race Condition, Producer–Consumer Problem, Critical Section Problem, and Peterson’s Solution* | [Lecture 16–17 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_07_Lectures/Lecture%20%23%2016%20%26%2017.pptx) |
 | 18 | **Semaphore and Critical Section** — covers *Critical Section Problem, Semaphore, Binary Semaphore, Counting Semaphore, and Limitations of Semaphore* | [Lecture 18 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_08_Lectures/Lecture%20%23%2018.pptx) |
 | 19 | **Classical Synchronization Problems** — covers *The Bounded Buffer Problem, The Reader and Writer Problem* | [Lecture 19 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_08_Lectures/Lecture%20%23%2019..pptx) |
+| 20–22 | **Deadlock and Resource Allocation** — covers *Deadlock, Necessary Conditions for Deadlock, Resource Allocation Graph (RAG), Methods of Handling Deadlocks, Banker’s Algorithm, Resource‑Allocation Graph (RAG), and Wait‑for Graph (WFG)* | [Lecture 20–22 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_09_Lectures/Lecture%20%23%2020%20-%2022.pptx) |
+| 23 | **Memory Management Fundamentals** — covers *Memory Management, Logical and Physical Address Space, Memory Management Unit (MMU), Static and Dynamic Loading, Dynamic Linking and Shared Libraries, Swapping* | [Lecture 23 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_10_Lectures/Lecture%20%23%2023.pptx) |
+| 24–25 | **Memory Management Techniques** — covers *Contiguous Memory Allocation, Fixed Size Partitioning, and Variable Size Partitioning* | [Lecture 24–25 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_10_Lectures/Lecture%20%23%2024%20-25.pptx) |
+| 26 | **Non‑Contiguous Memory Allocation** — covers *Paging, Segmentation, and Segmented Paging* | [Lecture 26 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_11_Lectures/Lecture%20%23%2026.pptx) |
+
 
 
 
