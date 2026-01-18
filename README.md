@@ -6,7 +6,7 @@ This repository contains **lecture slides and materials** for weekly topics rela
 
 ## 📅 Weekly Lectures
 
-| Week | Topic | Slides |
+| Sr. No | Topic | Slides |
 |------|--------|--------|
 | 1 | **Introduction to Operating Systems** — covers *Course Objectives, Overview of OS, Abstract Representation of System, Core Components, and Key Functions of an Operating System* | [Lecture 1 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_01_Lectures/Lecture%20%23%2001%20Introduction%20to%20Operating%20Systems.pptx) |
 | 2 | **Types of Operating Systems** — covers *Batch OS, Multi-Programmed OS, Multitasking OS, Real-Time OS, Distributed OS, Clustered OS, and Embedded OS* | [Lecture 2 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_01_Lectures/Lecture%20%23%2002%20Types%20of%20Operating%20Systems.pptx) |
