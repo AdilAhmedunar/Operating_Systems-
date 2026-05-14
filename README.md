@@ -29,12 +29,8 @@ This repository contains **lecture slides and materials** for weekly topics rela
 | 24–25 | **Memory Management Techniques** — covers *Contiguous Memory Allocation, Fixed Size Partitioning, and Variable Size Partitioning* | [Lecture 24–25 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_10_Lectures/Lecture%20%23%2024%20-25.pptx) |
 | 26 | **Non‑Contiguous Memory Allocation** — covers *Paging, Segmentation, and Segmented Paging* | [Lecture 26 (Download)](https://raw.githubusercontent.com/AdilAhmedunar/Operating_Systems-/main/Week_11_Lectures/Lecture%20%23%2026.pptx) |
 
-
-
-
-
-
-
+**Course Support**
+Instructors may approach me for assignments, quizzes, presentation topics, lab/project guidance, and concept clarification related to the course.
 
 ---
 
